@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/andikarifki.github.io/static/css/main.a74ec0db.css",
+    "main.js": "/andikarifki.github.io/static/js/main.5ee0ab05.js",
+    "static/js/453.acca0757.chunk.js": "/andikarifki.github.io/static/js/453.acca0757.chunk.js",
+    "static/media/profile.jpg": "/andikarifki.github.io/static/media/profile.8835ffaba60292897c66.jpg",
+    "index.html": "/andikarifki.github.io/index.html",
+    "main.a74ec0db.css.map": "/andikarifki.github.io/static/css/main.a74ec0db.css.map",
+    "main.5ee0ab05.js.map": "/andikarifki.github.io/static/js/main.5ee0ab05.js.map",
+    "453.acca0757.chunk.js.map": "/andikarifki.github.io/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a74ec0db.css",
+    "static/js/main.5ee0ab05.js"
+  ]
+}
