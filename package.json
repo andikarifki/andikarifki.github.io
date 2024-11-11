@@ -39,6 +39,8 @@
   },
   "devDependencies": {
     "gh-pages": "^6.2.0",
-    "homepage": "https://andikarifki.github.io/nama-repository"
+    "homepage": "https://andikarifki.github.io/nama-repository",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   }
 }
